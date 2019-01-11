@@ -1,0 +1,2 @@
+# Redirect default Netlify subdomain to primary domain
+http://loving-sinoussi-2feec1.netlify.com/* http://fffnnn.ml/:splat 301!
